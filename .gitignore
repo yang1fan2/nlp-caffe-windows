@@ -229,3 +229,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+3rdparty/
+*.solverstate
+*.caffemodel
+caffe/examples/mnist/mnist_train_leveldb
+caffe/examples/mnist/mnist_test_leveldb
+*.pyc
